@@ -25,7 +25,7 @@ I have spent 20 years selling and building sales functions across the US, UK, Au
 
 **Head of International Business Development, UR Technology & Computers.** Aug 2026 to present, freelance. I built the international outbound function from nothing. The full write-up is here: [ur-tech-international-bd](https://github.com/dananthony03/ur-tech-international-bd).
 
-**Founder, Daniel Zariaah AI Tech.** Jul 2020 to present. Sales, GTM and AI adoption consulting and training for founders and sales teams. 70+ training cohorts delivered since 2012.
+**Founder, Daniel Zariaah AI Tech.** Jul 2020 to present. Sales, GTM and AI adoption consulting and training for founders and sales teams. 70+ training cohorts delivered since 2012. More here: [daniel-zariaah-ai-tech](https://github.com/dananthony03/daniel-zariaah-ai-tech).
 
 ## Completed
 
@@ -37,6 +37,7 @@ I have spent 20 years selling and building sales functions across the US, UK, Au
 |---|---|
 | [ur-tech-international-bd](https://github.com/dananthony03/ur-tech-international-bd) | Outbound engine, ICP, market sizing, government tender track, CRM operations and revenue plan for UR Technology & Computers |
 | [ai-basket-gtm-from-zero](https://github.com/dananthony03/ai-basket-gtm-from-zero) | Building the sales function from zero for AI Basket, a multi-model AI inference platform: ICP, supply side, outbound engine, team training and sales operating system |
+| [daniel-zariaah-ai-tech](https://github.com/dananthony03/daniel-zariaah-ai-tech) | AI sales training, GTM consulting and revenue enablement systems from my practice, Daniel Zariaah AI Tech |
 
 More projects are being added one by one.
 
