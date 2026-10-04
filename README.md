@@ -36,6 +36,7 @@ I have spent 20 years selling and building sales functions across the US, UK, Au
 | Project | What it is |
 |---|---|
 | [ur-tech-international-bd](https://github.com/dananthony03/ur-tech-international-bd) | Outbound engine, ICP, market sizing, government tender track, CRM operations and revenue plan for UR Technology & Computers |
+| [ai-basket-gtm-from-zero](https://github.com/dananthony03/ai-basket-gtm-from-zero) | Building the sales function from zero for AI Basket, a multi-model AI inference platform: ICP, supply side, outbound engine, team training and sales operating system |
 
 More projects are being added one by one.
 
